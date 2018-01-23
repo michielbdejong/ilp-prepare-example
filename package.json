@@ -1,0 +1,22 @@
+{
+  "name": "ilp-prepare-example",
+  "version": "1.0.0",
+  "description": "Simple script that outputs an Interledger Prepare packet to stdout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michielbdejong/ilp-prepare-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michielbdejong/ilp-prepare-example/issues"
+  },
+  "homepage": "https://github.com/michielbdejong/ilp-prepare-example#readme",
+  "dependencies": {
+    "ilp-packet": "^2.1.2"
+  }
+}
