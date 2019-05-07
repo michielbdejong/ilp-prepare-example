@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/michielbdejong/ilp-prepare-example#readme",
   "dependencies": {
-    "ilp-packet": "^2.1.2"
+    "ilp-packet": "^3.0.8"
   }
 }
